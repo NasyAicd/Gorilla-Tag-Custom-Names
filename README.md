@@ -1,7 +1,5 @@
 # Gorilla Tag Custom Names
 A non-intrusive name mod for the amazing game Gorilla Tag
-### Please note: this mod WILL NOT work on public servers, however you are wholly responsible for any reports and/or bans you may receive
-
 ## To install:
 ### Using BepInEx
 Simply download the latest zip file (dll + text config inside) [Click here for releases](https://github.com/jeydevv/Gorilla-Tag-Custom-Names/releases/), extract the folder in your BepInEx/plugins folder in your game directory
